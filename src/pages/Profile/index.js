@@ -41,7 +41,7 @@ export default function Profile() {
           placeholder="Confirmação de senha"
         />
 
-        <button type="submit">Atualizar perdil</button>
+        <button type="submit">Atualizar perfil</button>
       </Form>
 
       <button type="button" onClick={handleSignOut}>
